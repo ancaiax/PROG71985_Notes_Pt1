@@ -1,0 +1,4 @@
+﻿  source.c
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\InClass\Project3\source.c(20,10): warning C4098: 'testRunner': 'void' function returning a value
+C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\InClass\Project3\source.c(38,10): warning C4098: 'testRunner2': 'void' function returning a value
+  Project3.vcxproj -> C:\Users\School\OneDrive - Conestoga College\WINTER2024\PROG71985\InClass\x64\Debug\Project3.exe
